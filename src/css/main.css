@@ -27,14 +27,14 @@ body {
     margin: 0 auto 24px auto;
     object-fit: cover;
 }
-.card a {
+.github-link {
     display: block;
     text-align: center;
     color: #800080;
     font-weight: bold;
     margin: 0 0 20px 0;
 }
-.card p {
+.bio {
     text-align: left;
     line-height: 1.5;
     margin: 0 0 16px 0;
