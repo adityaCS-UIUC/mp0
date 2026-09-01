@@ -1,1 +1,42 @@
-/* Your CSS here. */
+body {
+    margin: 0;
+    background-color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+}
+.card {
+    width: 800px;
+    margin: 40px auto;
+    padding: 24px 36px 100px 36px;
+    background-color: #5e5e5e;
+    color: #ffffff;
+}
+.card h1 {
+    text-align: center;
+    margin: 0 0 16px 0;
+    font-size: 32px;
+}
+.card .email {
+    text-align: center;
+    font-style: italic;
+    margin: 0 0 20px 0;
+}
+.card img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 24px auto;
+    object-fit: cover;
+}
+.card a {
+    display: block;
+    text-align: center;
+    color: #800080;
+    font-weight: bold;
+    margin: 0 0 20px 0;
+}
+.card p {
+    text-align: left;
+    line-height: 1.5;
+    margin: 0 0 16px 0;
+    font-size: 16px;
+}
